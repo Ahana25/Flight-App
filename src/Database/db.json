@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "username": "Marley",
+      "id": 1
+    },
+    {
+      "username": "Susan",
+      "id": 2
+    },
+    {
+      "username": "Yuvan",
+      "id": 3
+    },
+    {
+      "username": "Marley",
+      "id": 4
+    },
+    {
+      "username": "Dave",
+      "id": 5
+    },
+    {
+      "username": "Susan",
+      "id": 6
+    },
+    {
+      "username": "Foley",
+      "id": 7
+    }
+  ],
+  "flights": [
+    {
+      "id": "1",
+      "flightname": "Indigo",
+      "seatsavailable": "290",
+      "seatsbooked": "38",
+      "from": "Delhi",
+      "to": "Goa"
+    },
+    {
+      "id": "2",
+      "flightname": "Vistara",
+      "seatsavailable": "190",
+      "seatsbooked": "238",
+      "from": "Hyderabad",
+      "to": "Chennai"
+    },
+    {
+      "id": "3",
+      "flightname": "Indigo",
+      "seatsavailable": "290",
+      "seatsbooked": "38",
+      "from": "Kolkata",
+      "to": "Mumbai"
+    },
+    {
+      "id": "4",
+      "flightname": "Indigo",
+      "seatsavailable": "290",
+      "seatsbooked": "38",
+      "from": "Delhi",
+      "to": "Chennai"
+    },
+    {
+      "id": "5",
+      "flightname": "Air-Asia",
+      "seatsavailable": "290",
+      "seatsbooked": "30",
+      "from": "Bangalore",
+      "to": "Pune"
+    },
+    {
+      "id": "6",
+      "flightname": "Indigo",
+      "seatsavailable": "290",
+      "seatsbooked": "38",
+      "from": "Jaipur",
+      "to": "Kochi"
+    },
+    {
+      "id": "7",
+      "flightname": "GoAir",
+      "seatsavailable": "490",
+      "seatsbooked": "3",
+      "from": "Kolkata",
+      "to": "Bhubaneswar"
+    },
+    {
+      "id": "8",
+      "flightname": "Vistara",
+      "seatsavailable": "390",
+      "seatsbooked": "32",
+      "from": "Delhi",
+      "to": "Bangalore"
+    },
+    {
+      "id": "9",
+      "flightname": "GoAir",
+      "seatsavailable": "290",
+      "seatsbooked": "28",
+      "from": "Pune",
+      "to": "Goa"
+    },
+    {
+      "id": "10",
+      "flightname": "Indigo",
+      "seatsavailable": "320",
+      "seatsbooked": "33",
+      "from": "Guwahati",
+      "to": "Bhubaneswar"
+    },
+    {
+      "id": "11",
+      "flightname": "Vistara",
+      "seatsavailable": "190",
+      "seatsbooked": "38",
+      "from": "Delhi",
+      "to": "Mumbai"
+    },
+    {
+      "id": "12",
+      "flightname": "Indigo",
+      "seatsavailable": "67",
+      "seatsbooked": "138",
+      "from": "Kolkata",
+      "to": "Chennai"
+    },
+    {
+      "id": "13",
+      "flightname": "SpiceJet",
+      "seatsavailable": "190",
+      "seatsbooked": "138",
+      "from": "Pondicherry",
+      "to": "Goa"
+    },
+    {
+      "id": "14",
+      "flightname": "Indigo",
+      "seatsavailable": "298",
+      "seatsbooked": "5",
+      "from": "Delhi",
+      "to": "Kolkata"
+    },
+    {
+      "id": "15",
+      "flightname": "AirIndia",
+      "seatsavailable": "230",
+      "seatsbooked": "38",
+      "from": "Mumbai",
+      "to": "Goa"
+    },
+    {
+      "id": "16",
+      "flightname": "Indigo",
+      "seatsavailable": "190",
+      "seatsbooked": "138",
+      "from": "Kochi",
+      "to": "Goa"
+    },
+    {
+      "id": "17",
+      "flightname": "Indigo",
+      "seatsavailable": "244",
+      "seatsbooked": "38",
+      "from": "Vishakhapatnam",
+      "to": "Goa"
+    },
+    {
+      "id": "18",
+      "flightname": "Vistara",
+      "seatsavailable": "240",
+      "seatsbooked": "18",
+      "from": "Vadodara",
+      "to": "Hyderabad"
+    },
+    {
+      "id": "19",
+      "flightname": "Indigo",
+      "seatsavailable": "298",
+      "seatsbooked": "138",
+      "from": "Jaipur",
+      "to": "Goa"
+    },
+    {
+      "id": "20",
+      "flightname": "Indigo",
+      "seatsavailable": "210",
+      "seatsbooked": "138",
+      "from": "Lucknow",
+      "to": "Goa"
+    }
+  ],
+  "history": [
+    {
+      "id": "2021-09-18",
+      "flightname": "Indigo",
+      "seatsavailable": "290",
+      "seatsbooked": "38",
+      "from": "Kolkata",
+      "to": "Mumbai",
+      "mail": "d123@abc.com",
+      "name": "Dave",
+      "phone": "56789935332"
+    }
+  ]
+}
